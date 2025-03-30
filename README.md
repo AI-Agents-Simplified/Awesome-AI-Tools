@@ -5,6 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/AI-Agents-Simplified/Awesome-AI-Tools)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/AI-Agents-Simplified/Awesome-AI-Tools)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AI-Agents-Simplified/Awesome-AI-Tools)
+
 A curated list of AI-powered tools, frameworks, and applications that enhance productivity, automate workflows, and unlock new possibilities in artificial intelligence.
 
 ## 🚀 Introduction
