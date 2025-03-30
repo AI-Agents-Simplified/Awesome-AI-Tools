@@ -1,5 +1,10 @@
 # Awesome AI Tools
-
+![Awesome AI Tools](https://img.shields.io/badge/Awesome%20AI%20Tools-Blue.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/AI-Agents-Simplified/Awesome-AI-Tools?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AI-Agents-Simplified/Awesome-AI-Tools?style=social)
+![GitHub issues](https://img.shields.io/github/issues/AI-Agents-Simplified/Awesome-AI-Tools)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AI-Agents-Simplified/Awesome-AI-Tools)
+![GitHub last commit](https://img.shields.io/github/last-commit/AI-Agents-Simplified/Awesome-AI-Tools)
 A curated list of AI-powered tools, frameworks, and applications that enhance productivity, automate workflows, and unlock new possibilities in artificial intelligence.
 
 ## 🚀 Introduction
